@@ -49,7 +49,7 @@ export default function Home() {
           <div className="absolute inset-0 bg-gradient-to-r from-blue-500/20 to-purple-500/20 animate-gradient" />
         </div>
         <div className="container mx-auto px-4 z-10">
-          <div className="max-w-4xl mx-auto text-center">
+          <div className="max-w-4xl mx-auto text-center mt-20">
             <div className="inline-block mb-6">
               <span className="inline-block animate-bounce-slow">
                 <h1 className="text-5xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 via-purple-500 to-blue-500 animate-gradient">
